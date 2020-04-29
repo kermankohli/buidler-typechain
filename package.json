@@ -46,18 +46,18 @@
     "tslint": "^5.20.1",
     "tslint-config-prettier": "^1.18.0",
     "tslint-plugin-prettier": "^2.0.1",
-    "typechain": "^1.0.3",
-    "typechain-target-ethers": "^1.0.2",
-    "typechain-target-truffle": "^1.0.1",
-    "typechain-target-web3-v1": "^1.0.1",
+    "typechain": "2.0.0-beta2",
+    "typechain-target-ethers": "2.0.0-beta2",
+    "typechain-target-truffle": "2.0.0-beta2",
+    "typechain-target-web3-v1": "^2.0.0-beta2",
     "typescript": "^3.7.2"
   },
   "peerDependencies": {
-    "@nomiclabs/buidler": "^1.0.1",
+    "@nomiclabs/buidler": "2.0.0-beta2",
     "ts-generator": "0.0.8",
     "typechain": "^1.0.3",
-    "typechain-target-ethers": "^1.0.2",
-    "typechain-target-truffle": "^1.0.1",
-    "typechain-target-web3-v1": "^1.0.1"
+    "typechain-target-ethers": "2.0.0-beta2",
+    "typechain-target-truffle": "2.0.0-beta2",
+    "typechain-target-web3-v1": "2.0.0-beta2"
   }
 }
